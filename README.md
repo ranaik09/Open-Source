@@ -14,8 +14,9 @@ If your open source project is a software project, you can probably find your au
 [Public Speaking](https://speaking.io/)
 6. 
 
-# My Contributions on Open-Source:
+# Contributions in Open-Source projects:
 1. [Libera Chat](https://github.com/Libera-Chat) : Providing a community platform for free and open-source software and peer directed projects.
+2. [ Will update if I start contribute ]
 
 ## Some Projects
 1. https://github.com/samhenrigold/LidAngleSensor
